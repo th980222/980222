@@ -1,0 +1,25 @@
+{
+  "name": "USDT",
+  "logoURI": "https://raw.githubusercontent.com/th980222/980222/main/logo.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "TNRGVCcAoQCUfYiZLcQRyhPMyYKYBPviCm",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/th980222/980222/main/logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
